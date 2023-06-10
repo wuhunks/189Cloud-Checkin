@@ -34,8 +34,8 @@ def pushtg(data):
 # 【TGID】格式为123456（人）或者-100123456（群组/频道）
 
 if (username == "" or password == ""):
-    username = input("账号：")
-    password = input("密码：")
+    username = input("账号：18292699520")
+    password = input("密码：Mf31252596.")
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Linux; Android 5.1.1; SM-G930K Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36 Ecloud/8.6.3 Android/22 clientId/355325117317828 clientModel/SM-G930K imsi/460071114317824 clientChannelId/qq proVersion/1.0.6',
